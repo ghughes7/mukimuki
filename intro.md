@@ -10,3 +10,4 @@ I want to make a new markdown file in Atom. I'm going to put alot of text in an 
 
 ###Making merge conflict. on purpose?!?
 yes we are happy.
+
